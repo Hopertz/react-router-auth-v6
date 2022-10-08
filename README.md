@@ -1,2 +1,2 @@
-# Authentication and Protected Routes in React Router v6.
+## Authentication and Protected Routes in React Router v6.
 
